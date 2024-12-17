@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+.section6{
+  background: url('/background.png');
+}
+.shop{
+  background: url('/shop-background.png');
+}
